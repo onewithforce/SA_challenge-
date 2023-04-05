@@ -1,12 +1,4 @@
-# SA_challenge
-Initial repo to store versions and improvements over time.
-
-05/04/23
-Visual representation does indicate the shipping process is the one in focus,
-nevertheless not clarified if trucks/shipping is owned by manufacturer, any store capacity and etc.
-Making the assumption the trucks are already owned and operated by the manufacturer.
-Second important assumption - Shipping does provide API/Programmable way to retrieve info and trigger flows.
-
+05/04/23 - Dropped the idea about store centric solution.
 04/04/23 - Decided to add dates, so I can track my toughts. 
 
 After reading the pdf once again, I'm even more lost. :]

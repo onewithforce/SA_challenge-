@@ -2,11 +2,11 @@
 Initial repo to store versions and improvements over time.
 
 06/04/23
-Made some progress on the C4 diagram, not finished due to lack of in-depth knowledge and time constrains. \ 
-Archived some old versions. \
-Due to time constrains only a few advantages were listed. \
-Very basic gap analysis was done.
-Time to wrap up.
+Made some progress on the C4 diagram, not finished due to lack of in-depth knowledge and time constrains.  
+Archived some old versions.  
+Due to time constrains only a few advantages were listed.  
+Very basic gap analysis was done.  
+Time to wrap up.  
  
 
 05/04/23
